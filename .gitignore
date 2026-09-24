@@ -1,0 +1,40 @@
+# AI
+.codex/
+.claude/
+
+# Gradle and Kotlin caches/build output
+.gradle/
+.kotlin/
+build/
+
+# Android local configuration and generated files
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.apks
+*.hprof
+
+# Signing credentials and private keys
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# IDE metadata
+.idea/
+.fleet/
+.vscode/
+*.iml
+out/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
